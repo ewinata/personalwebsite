@@ -1,0 +1,30 @@
+.img-responsive {
+    object-fit: scale-down;
+    width: 100%;
+    border: solid;
+    border-width: 5px;
+    border-color: #89ABE3FF;
+    border-radius: 5rem;
+}
+
+.app {
+    background-color: rgb(255, 255, 255);
+}
+
+.row[data-full-screen="yes"] {
+    min-height: 100vh;
+}
+
+.row[data-bg-skyblue="yes"] {
+    background: #89ABE3FF;
+    border: solid;
+    border-color: cornflowerblue;
+}
+
+button {
+    background-color: #89ABE3FF;
+}
+
+button > h3 {
+    color: #FCF6F5FF;
+}

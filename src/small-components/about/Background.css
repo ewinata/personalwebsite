@@ -1,0 +1,4 @@
+img[data-bg-image] {
+    max-height: 50vh;
+    border: none;
+}

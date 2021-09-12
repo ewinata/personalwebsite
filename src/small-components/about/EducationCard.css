@@ -1,0 +1,23 @@
+@media (max-width: 899px) {
+    img[data-education-img] {
+        object-fit: scale-down;
+        height: 15vh;
+        max-width: 15vw;
+    }    
+}
+
+@media (min-width: 900px) {
+    img[data-education-img] {
+        object-fit: scale-down;
+        height: 20vh;
+        max-width: 30vw;
+    }    
+}
+
+[data-education-card]:hover {
+    filter: brightness(80%);
+}
+
+a[data-text-decoration-none] {
+    text-decoration: none;
+}

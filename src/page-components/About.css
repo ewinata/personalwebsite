@@ -1,0 +1,12 @@
+.carousel .carousel-item img {
+    height: 60vh;
+    object-fit: cover;
+    opacity: 50%;
+    border: solid;
+    border-width: 5px;
+    border-color: #89ABE3FF;
+}
+
+.row[data-fit-height] {
+    height: 32vh;
+}

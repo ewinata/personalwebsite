@@ -1,0 +1,48 @@
+{
+    "projects": [
+        {
+            "title": "Mobile Application Development",
+            "subtitle": "Providing video and quiz access through mobile application",
+            "company": {
+                "name": "A Global Voice for Autism",
+                "website": "https://www.globalvoiceforautism.org/"
+            },
+            "previews": [
+                {
+                    "link": "globalvoice/admin.gif",
+                    "description": "Login to admin page"
+                },
+                {
+                    "link": "globalvoice/login.gif",
+                    "description": "Login to user page"
+                },
+                {
+                    "link": "globalvoice/quiz.gif",
+                    "description": "Quizzes"
+                },
+                {
+                    "link": "globalvoice/video_1.gif",
+                    "description": "Videos preview 1"
+                },
+                {
+                    "link": "globalvoice/video_2.gif",
+                    "description": "Videos preview 2"
+                }
+            ],
+            "imageLocation": "images/globalvoice.jpg",
+            "description": "Development of a cross platform mobile application using Flutter and Firebase to provide video access to 50 videos and quizzes to strengthen educational foundations and cultivate independence for people with autism.",
+            "stack": ["Flutter", "Dart", "Navigator 2.0", "Firebase", "Jira", "Figma"]
+        },
+        {
+            "title": "Raspberry Pi Engineer Intern",
+            "subtitle": "Setting up monitoring system for fishing boats",
+            "company": {
+                "name": "Aruna",
+                "website": "https://aruna.id/"
+            },
+            "imageLocation" : "images/aruna.png",
+            "description": "Designing and developing a base setup for a Raspberry Pi monitoring system to collect data to increase the transparency for the distribution of fishing locations and also provide safety measures for individual fishing boats.",
+            "stack": ["Python", "Bash", "Linux", "Crontab", "Firebase", "SQLite3" ]
+        }
+    ]
+}

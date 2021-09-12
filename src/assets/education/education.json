@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "school": "University of California- Los Angeles",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_University_of_California_UCLA.svg/1200px-The_University_of_California_UCLA.svg.png",
+            "degree": "Bachelor's of Science",
+            "major": "Mathematics of Computation",
+            "website": "https://www.ucla.edu/",
+            "graduation_year": 2020,
+            "gpa": 3.57
+        },
+        {
+            "school": "North Seattle Community College",
+            "imageLink": "https://www.sbctc.edu/resources/images/colleges/north-seattle-college-logo.png",
+            "degree": "Associate's of Science",
+            "major": "Computer Science",
+            "website": "https://northseattle.edu/",
+            "graduation_year": 2018,
+            "gpa": 3.93
+        }
+    ]
+}

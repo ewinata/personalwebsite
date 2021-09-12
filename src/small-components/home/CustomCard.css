@@ -1,0 +1,7 @@
+div[data-card-type="custom-card"] {
+    border-radius: 2rem;
+    border-color: white;
+    border-style: solid;
+    background-color: #73C2FB;
+    height: 100%;
+}

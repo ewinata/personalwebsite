@@ -1,0 +1,37 @@
+/* Add a black background color to the top navigation */
+.custom-nav-bar {
+    background-color: #89ABE3FF;
+    overflow: hidden;
+    width: 100%;
+    border: solid;
+    border-color: cornflowerblue;
+    min-height: 5vh;
+}
+
+/* Style the links inside the navigation bar */
+.custom-nav-bar span {
+    float: left;
+    color: #FCF6F5FF;
+    text-align: center;
+    padding: 1rem 1rem;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.custom-nav-bar span a:link {
+    text-decoration: none;
+}
+
+.custom-nav-bar span h2 {
+    color: #FCF6F5FF;
+    font-size: 2rem;
+}
+
+/* Change the color of links on hover */
+.custom-nav-bar span:hover {
+    opacity: 70%;
+}
+
+.float-right {
+    float: right;
+}

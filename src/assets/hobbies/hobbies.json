@@ -1,0 +1,12 @@
+{
+    "hobbies": {
+        "Gym": "I try to routinely go to the gym if I have time. I had a phase back in UCLA where I would go 5 times a week for 3 months, that before the pandemic though.",
+        "Gaming": "I do some competitive gaming on my spare time. I mainly play Valorant now. I used to play CSGO and League of Legends, and even Mobile Legends, but my priorities and other interests outweigh my hobbies so I only stick to one game now.",
+        "Basketball": "My favorite sport, although I'm not good at it. I enjoy playing recreationally from time to time."
+    },
+    "interests": {
+        "Investing": "I like the idea of investing. The power of compound interest is often underestimated. It doesn't take as much time to plan your investments, but it can lead to big results.",
+        "Cryptocurrencies": "I have always been intrigued by the idea of Cryptocurrencies. I think that it has a significant potential to be adopted, which is why I also invest in crypto, namely: Bitcoin, Ethereum and Cardano.",
+        "Coding": "I like the idea of being able to create your own Software. Technology still has a lot of room to grow, and I want to be able to understand its potential and be a part of it, which is why I chose to code."
+    }
+}

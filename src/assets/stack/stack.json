@@ -1,0 +1,21 @@
+{
+    "Languages": [
+        "Python",
+        "Java",
+        "Dart",
+        "C/C++",
+        "MySQL",
+        "JavaScript",
+        "HTML/CSS",
+        "Bash"
+    ],
+    "Frameworks/Libraries": [
+        "Flutter",
+        "Flask",
+        "BeautifulSoup/Selenium",
+        "Tensorflow",
+        "Firebase",
+        "Bootstrap",
+        "React.JS/Node.JS"
+    ]
+}
